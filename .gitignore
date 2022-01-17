@@ -1,0 +1,9 @@
+db.sqlite3
+__pychache__
+Pipfile
+Pipfile.lock
+*.png
+*.xlsx
+/images
+/migrations
+*.ttf
